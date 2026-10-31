@@ -1,0 +1,36 @@
+{
+  "name": "技能鉴定刷题",
+  "short_name": "刷题",
+  "description": "技能鉴定（初级）题库刷题：600 题（480 单选 + 120 判断），按艾宾浩斯记忆曲线安排间隔复习，错题本与学习统计，完全离线可用。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#F2F4F8",
+  "theme_color": "#F2F4F8",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

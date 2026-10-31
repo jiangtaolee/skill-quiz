@@ -1,0 +1,12 @@
+﻿# 测试输出与临时文件
+tools/shots/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+node_modules/
+
+# 本地环境
+.vscode/
+.idea/
+.env
